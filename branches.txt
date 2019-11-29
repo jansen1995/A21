@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 "Erste Zeile Master Branch"
+=======
+>>>>>>> feature1
